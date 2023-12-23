@@ -1,31 +1,33 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: Dossierr  # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
+assignees:
+  - two-trick-pony-NL
+
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Webserver
+    url: https://dossierr.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com
+  - name: GPT Engine 
+    url: https://dossierr.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com/q/
+  - name: NGINX Reverse Proxy
+    url: https://dossierr.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com/healthcheck
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # cname: status.mapmaker.nl
+  logoUrl: https://raw.githubusercontent.com/Dossierr/noncode/main/logowide.png
+  name: Dossierr Status page
+  introTitle: "**Status page**"
+  introMessage: "This is the status page for Dossierr. Check the associated issues in case of downtime."
+  theme: light
+  css: "nav {background-color: #fae050;}"
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Incident Issues
+      href: https://github.com/dossierr/Status-Page/issues?q=is%3Aissue+is%3Aopen
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
