@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dossierr.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com.ico",
     "slug": "webserver",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 538,
-    "timeDay": 538,
-    "timeWeek": 538,
-    "timeMonth": 538,
-    "timeYear": 538,
+    "uptime": "44.91%",
+    "uptimeDay": "23.51%",
+    "uptimeWeek": "44.91%",
+    "uptimeMonth": "44.91%",
+    "uptimeYear": "44.91%",
+    "time": 518,
+    "timeDay": 556,
+    "timeWeek": 518,
+    "timeMonth": 518,
+    "timeYear": 518,
     "dailyMinutesDown": {
-      "2023-12-24": 0
+      "2023-12-25": 79,
+      "2023-12-24": 1023
     }
   },
   {
@@ -31,7 +32,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 95,
-    "timeDay": 95,
+    "timeDay": 96,
     "timeWeek": 95,
     "timeMonth": 95,
     "timeYear": 95,
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 92,
-    "timeDay": 92,
-    "timeWeek": 92,
-    "timeMonth": 92,
-    "timeYear": 92,
+    "time": 93,
+    "timeDay": 94,
+    "timeWeek": 93,
+    "timeMonth": 93,
+    "timeYear": 93,
     "dailyMinutesDown": {}
   }
 ]
