@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dossierr.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com.ico",
     "slug": "webserver",
     "status": "down",
-    "uptime": "62.05%",
+    "uptime": "61.76%",
     "uptimeDay": "72.62%",
-    "uptimeWeek": "62.05%",
-    "uptimeMonth": "62.05%",
-    "uptimeYear": "62.05%",
+    "uptimeWeek": "61.76%",
+    "uptimeMonth": "61.76%",
+    "uptimeYear": "61.76%",
     "time": 572,
     "timeDay": 763,
     "timeWeek": 572,
     "timeMonth": 572,
     "timeYear": 572,
     "dailyMinutesDown": {
-      "2023-12-27": 2,
+      "2023-12-27": 28,
       "2023-12-26": 463,
       "2023-12-25": 677,
       "2023-12-24": 1023
@@ -28,18 +28,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dossierr.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com.ico",
     "slug": "gpt-engine",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.53%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
     "time": 114,
     "timeDay": 197,
     "timeWeek": 114,
     "timeMonth": 114,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2023-12-27": 0
+      "2023-12-27": 27
     }
   },
   {
@@ -58,6 +58,8 @@
     "timeWeek": 105,
     "timeMonth": 105,
     "timeYear": 105,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-27": 0
+    }
   }
 ]
