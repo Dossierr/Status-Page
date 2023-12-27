@@ -4,18 +4,19 @@
     "url": "https://dossierr.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com",
     "icon": "https://icons.duckduckgo.com/ip3/dossierr.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com.ico",
     "slug": "webserver",
-    "status": "up",
-    "uptime": "55.65%",
-    "uptimeDay": "67.85%",
-    "uptimeWeek": "55.65%",
-    "uptimeMonth": "55.65%",
-    "uptimeYear": "55.65%",
+    "status": "down",
+    "uptime": "62.05%",
+    "uptimeDay": "72.62%",
+    "uptimeWeek": "62.05%",
+    "uptimeMonth": "62.05%",
+    "uptimeYear": "62.05%",
     "time": 572,
-    "timeDay": 654,
+    "timeDay": 763,
     "timeWeek": 572,
     "timeMonth": 572,
     "timeYear": 572,
     "dailyMinutesDown": {
+      "2023-12-27": 2,
       "2023-12-26": 463,
       "2023-12-25": 677,
       "2023-12-24": 1023
@@ -26,7 +27,7 @@
     "url": "https://dossierr.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com/q/",
     "icon": "https://icons.duckduckgo.com/ip3/dossierr.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com.ico",
     "slug": "gpt-engine",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,7 +38,9 @@
     "timeWeek": 114,
     "timeMonth": 114,
     "timeYear": 114,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-27": 0
+    }
   },
   {
     "name": "NGINX Reverse Proxy",
