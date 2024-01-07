@@ -17,12 +17,11 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: status.mapmaker.nl
-  logoUrl: https://raw.githubusercontent.com/Dossierr/noncode/main/logowide.png
+  logoUrl: https://raw.githubusercontent.com/Dossierr/noncode/main/logo.png
   name: Dossierr Status page
   introTitle: "**Status page**"
   introMessage: "This is the status page for Dossierr. Check the associated issues in case of downtime."
   theme: light
-  css: "nav {background-color: #fae050;}"
   navbar:
     - title: Status
       href: /
