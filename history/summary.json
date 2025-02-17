@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.77%",
     "time": 592,
-    "timeDay": 711,
-    "timeWeek": 641,
-    "timeMonth": 597,
+    "timeDay": 526,
+    "timeWeek": 608,
+    "timeMonth": 598,
     "timeYear": 584,
     "dailyMinutesDown": {
       "2024-02-25": 873,
@@ -22,8 +22,7 @@
       "2024-02-22": 1440,
       "2024-02-21": 1440,
       "2024-02-20": 1440,
-      "2024-02-19": 1440,
-      "2024-02-18": 1440
+      "2024-02-19": 1440
     }
   },
   {
@@ -38,8 +37,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.77%",
     "time": 116,
-    "timeDay": 138,
-    "timeWeek": 129,
+    "timeDay": 94,
+    "timeWeek": 122,
     "timeMonth": 118,
     "timeYear": 116,
     "dailyMinutesDown": {
@@ -49,8 +48,7 @@
       "2024-02-22": 1440,
       "2024-02-21": 1440,
       "2024-02-20": 1440,
-      "2024-02-19": 1440,
-      "2024-02-18": 1440
+      "2024-02-19": 1440
     }
   },
   {
@@ -59,14 +57,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/dossierr.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com.ico",
     "slug": "nginx-reverse-proxy",
     "status": "down",
-    "uptime": "98.06%",
+    "uptime": "98.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.77%",
     "time": 115,
-    "timeDay": 138,
-    "timeWeek": 130,
+    "timeDay": 94,
+    "timeWeek": 122,
     "timeMonth": 118,
     "timeYear": 116,
     "dailyMinutesDown": {
@@ -76,8 +74,7 @@
       "2024-02-22": 1440,
       "2024-02-21": 1440,
       "2024-02-20": 1440,
-      "2024-02-19": 1440,
-      "2024-02-18": 1440
+      "2024-02-19": 1440
     }
   }
 ]
